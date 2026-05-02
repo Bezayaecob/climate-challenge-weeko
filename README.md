@@ -10,3 +10,4 @@ source venv/Scripts/activate
 
 pip install -r requirements.txt
 ## CI Setup Complete
+## Environment Setup Complete
